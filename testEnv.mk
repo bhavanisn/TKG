@@ -29,3 +29,4 @@ endif
 
 export TR_silentEnv=1
 export TR_enableBreakOnDFSet=1
+export TR_DisableBatchClear=1
